@@ -21,7 +21,7 @@ Packaging Instruction Menu:
 - This list includes packaging requirements for various machine parts regarding its type of empties and its quantities. In addition it contain requirement to place the goods on a pallet.
 
 Empties List Menu:
--This list contains different types of empties and its names and its weights used for packaging.
+- This list contains different types of empties and its names and its weights used for packaging.
 
 Create Cargo List Menu:
 - You can start the calculation and planning process here. This will drive you over the selection till the end result of calculation.
